@@ -199,6 +199,10 @@ h1 {
 	margin-bottom: 17px;
 }
 
+h1#leftAlign{
+	text-align:left;
+}
+
 h1.noSubtitle{
 	margin-bottom:90px;
 }
